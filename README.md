@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome here
 Am Agwu Emmanuel by name a full stack developer with knowledge on
-Teact js, Node js, Express js ,mongoose db as well as android native development.
+React js, Node js, Express js ,mongoose db as well as android native development.
 
 
 
