@@ -1,7 +1,8 @@
 ### Hi there 👋
 Welcome here
-Am Agwu Emmanuel by name and android developer
-Here is a music project am working on
+Am Agwu Emmanuel by name a full stack developer with knowledge on
+Teact js, Node js, Express js ,mongoose db as well as android native development.
+
 
 
 ![dejoen's Stats](https://github-readme-stats.vercel.app/api?username=dejoen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
